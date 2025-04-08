@@ -1,5 +1,5 @@
 # hello-world
-Test repository for GitHub tinkerings
+Test repository for GitHub tinkerings and fun
 
 Change for new branch test
 
